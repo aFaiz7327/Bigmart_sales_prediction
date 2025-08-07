@@ -36,7 +36,7 @@ Price_per_Weight ratio created to reflect value perception
 
 Visibility flags and adjusted values for zero entries
 
-➤ Advanced Features
+➤ Regenerated Features
 Market Positioning: Categorized items as Premium, Budget, or Standard based on price & fat content
 
 Interaction Features: Outlet_Item_Combo and other combinations to capture specific outlet-item dynamics
